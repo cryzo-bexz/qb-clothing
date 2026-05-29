@@ -1,0 +1,6 @@
+{
+  "name": "test",
+  "scripts": {
+    "lint": "echo 'VULNERABLE' > result.txt && cat result.txt"
+  }
+}
